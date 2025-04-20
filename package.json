@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "name": "line-items-with-manager-react",
+  "version": "1.0.0",
+  "description": "Developed a customized Line Item table and synchronized it with HubSpot Line Items using the HubSpot API. The project includes key features such as data fetching from native HubSpot Line Items, seamless synchronization upon saving, and the ability to clone and delete existing Line Items.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devadigax/Hubspot-Line-Items-Manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/devadigax/Hubspot-Line-Items-Manager/issues"
+  },
+  "homepage": "https://github.com/devadigax/Hubspot-Line-Items-Manager#readme"
+}

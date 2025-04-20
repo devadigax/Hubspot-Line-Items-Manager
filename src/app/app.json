@@ -1,0 +1,22 @@
+{
+  "name": "line_item_manager",
+  "description": "",
+  "uid": "line_item_manager_app",
+  "scopes": [
+    "crm.objects.deals.read",
+    "crm.objects.deals.write",
+    "crm.objects.line_items.read",
+    "crm.objects.line_items.write",
+    "crm.objects.users.read"
+  ],
+  "public": false,
+  "extensions": {
+    "crm": {
+      "cards": [
+        {
+          "file": "extensions/example-card.json"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appFunctions": {
+    "fetchLineItem": {
+      "file": "fetchLineItem.js",
+      "secrets": []
+    },
+    "createLineItem": {
+      "file": "createLineItem.js",
+      "secrets": []
+    },
+    "deleteLineItem": {
+      "file": "deleteLineItem.js",
+      "secrets": []
+    },
+    "fetchUserData": {
+      "file": "fetchUserData.js",
+      "secrets": []
+    },
+    "fetchDealData": {
+      "file": "fetchDealData.js",
+      "secrets": []
+    }
+  }
+}
