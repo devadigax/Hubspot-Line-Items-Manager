@@ -2,6 +2,8 @@
 
 A React-based custom Line Item management table integrated with HubSpot's Line Items API. This tool enhances the native HubSpot experience by allowing intuitive item management, including real-time data sync, cloning, and deletion of line items.
 
+![Screenshot](images/screenshot.jpg)
+
 ---
 
 ## 🚀 Features
